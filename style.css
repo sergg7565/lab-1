@@ -1,1 +1,10 @@
-
+body {
+    color: blue; 
+    background-color: gray;
+}
+nav {
+    font-size: 18pt; 
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
